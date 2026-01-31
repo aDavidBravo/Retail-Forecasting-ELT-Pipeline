@@ -1,7 +1,7 @@
 # Retail Demand Forecasting & ELT Pipeline
 ### Solución de Analytics Avanzado para Empresa Líder de Retail en Bolivia
 
-Este repositorio contiene el pipeline de ingeniería de datos y modelos de Machine Learning desarrollados para optimizar el abastecimiento y la predicción de demanda en una de las cadenas de retail de mejoramiento del hogar más importantes de Bolivia.
+Este repositorio contiene el pipeline de ingeniería de datos y modelos de Machine Learning desarrollados para optimizar el abastecimiento y la predicción de demanda en una de las cadenas de retail de mejoramiento del hogar más importantes de Bolivia (por temas de contrato con la empresa, respecto a la confidencialidad, el nombre del mismo no puede ser mostrado en este repositorio).
 
 ---
 
@@ -9,7 +9,7 @@ Este repositorio contiene el pipeline de ingeniería de datos y modelos de Machi
 
 La implementación de esta arquitectura moderna de datos ha generado resultados tangibles en la operación:
 
-*   **+18% Precisión en el Pronóstico**: Mejora significativa en la predicción de demanda diaria por SKU gracias a modelos XGBoost ajustados a la estacionalidad local (temporadas de lluvias/secas) y festividades nacionales.
+*   **+18% Precisión en el Pronóstico**: Mejora significativa en la predicción de demanda diaria por SKU gracias a modelos XGBoost ajustados a la estacionalidad local y festividades nacionales.
 *   **-22% Roturas de Stock**: Reducción drástica en ventas perdidas mediante alertas preventivas de reabastecimiento basadas en el forecast a 30 días.
 *   **Optimización de Inventario**: Balanceo proactivo de stock entre centros de distribución (La Paz, Santa Cruz, Cochabamba).
 
