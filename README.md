@@ -65,7 +65,7 @@ graph LR
 
 ## 🛠️ Instalación y Uso
 
-1.  **Clonar el repositorio**:
+1.  **Repositorio**:
     ```bash
     git clone https://github.com/aDavidBravo/Retail-Forecasting-ELT-Pipeline.git
     cd Retail-Forecasting-ELT-Pipeline
@@ -76,9 +76,9 @@ graph LR
     pip install -r requirements.txt
     ```
 
-3.  **Generar datos (Simulación)**:
+3.  **Generar datos**:
     ```bash
-    python src/generate_synthetic_data.py
+    python src/generate_data.py
     ```
 
 4.  **Ejecutar Pipeline de Forecasting**:
